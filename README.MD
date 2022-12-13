@@ -1,0 +1,1 @@
+En este proyecto forkeado, busco practicar la convinación de js y HTML & CSS. Implementando nuevas funsionalidades y haciendo del proyecto original una versión más completa ;)
